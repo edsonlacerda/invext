@@ -2,6 +2,6 @@
 
 ## Sobre o Projeto
 
-Este projeto é uma central de Relacionamento, desenvolvido com Spring Boot e Java 21.
+Este projeto é uma central de Relacionamento, desenvolvido com Java 21, Spring Boot e RabbitMq.
 
 
